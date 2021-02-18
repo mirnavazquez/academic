@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'In person atended workshops'
 subtitle:
 
 # Date format
@@ -23,28 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- date_end: "2019-12-10"
+  date_start: "2019-12-01"
+  description: "We learned different bioinformatic strategies to analyze data from network analysis to machine learning algorithms. As well we solved a real-world problem, which was how does microbial communities are assembled in a community full of antagonistic interactions?"
+  organization: UNAM
+  organization_url: ""
+  title: Workshop in Advanced Bioinformatics
+  url: https://lavis.unam.mx/bioinformatics/
+- date_end: "2019-08-01"
+  date_start: "2019-07-01"
+  description: We learned how to use tidy tools when developing R software. During this workshop we develop an R package to easily dbuild a webpage.
+  organization: CDSB-UNAM
+  organization_url: ""
+  title: How to Build and Create Tidy Tools
+  url: https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XhgHnohMFhE
+- date_end: "2018-08-01"
+  date_start: "2018-07-01"
+  description: We learned how to document the R package for Bioconductor. I participated in the development of an R package that aim to link metabolomic and transcritomic data.
+  organization: CDSB-UNAM
+  organization_url: 
+  title: Latin American R/BioConductor Developers Workshop 2018
+  url: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
 ---

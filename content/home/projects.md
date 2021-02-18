@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Genomics signals of adaptation of Vibrionaceae in Cuatro Cienegas.
+    tag: Cuatro Cienegas
+  - name: Molecular diagnosis design based on pangenomics.
+    tag: Fungi genomics
+  - name: Uncultured microbes from the deep sea.
+    tag: Metagenomics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
