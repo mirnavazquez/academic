@@ -1,77 +1,49 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+bio: My research interests include ecology and evolution of different organisms mostly microbes.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - course: PhD Microbial ecology and evolution
+    institution: The National Autonomous University of Mexico
+    year: 2017
+  - course: BSc in Biology
+    institution: The National Autonomous University of Mexico
+    year: 2011
+email: "mirnavrl@austin.utexas.edu"
+highlight_name: false
+interests:
+- Microbial ecology and evolution
+- Bioinformatics
+- Rladies
+- Hiking
+- Yoga
+organizations:
+- name: The University of Texas at Austin
+  url: https://sites.utexas.edu/baker-lab/
+role: Postdoctoral fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  label: Follow me on Twitter
+  link: https://twitter.com/MirnaVRL
+- icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?hl=es&user=5-TSB5AAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+  link: https://github.com/mirnavazquez
+superuser: true
+title: Mirna Vázquez Rosas Landa
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral fellow in the Baker Lab at The University of Texas at Austin, where I study uncultured microbes through metagenomics. Most of these weird life forms were identified on samples from hydrotermal vents and other habitats like oil spills. The questions in which I am currently interested are how do they survive? Which means, what do they eat to get energy from the metabolic perspective? As well, I am trying to understand, based on each genes, how do they interact with other members of the comunity?   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During my previous postdoc at INECOL I took advantage of the pan-genome paradigm to design a diagnostic system to aqurately identify a pathogen fungi that attack the trees in the Mexican-US border. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I studied my Ph.D. at the Ecology Institute at the UNAM in México City. During this time, I studied the landscape genomics of a rare lineage of Vibrionaceae isolated from Cuatro Cienegas, looking for the genes that could explain the adaptation to these ultraoligotrophic environment. 
+
+I enjoy teaching and sharing knowledge, and I love the R community. I start using R when I became part of the CDSB and Rladies community and then a co-organizer of RLadies Xalapa, a safe place for minorities to learn how to code.
