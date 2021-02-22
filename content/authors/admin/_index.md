@@ -44,7 +44,7 @@ Microbes are the most diverse organisms on earth; however, we know little about 
 
 As a postdoctoral fellow at the [Baker Lab](https://sites.utexas.edu/baker-lab/),  I study the uncultured microbes that live in the hydrothermal vents and other habitats like oil spills.  The main questions that I am trying to answer are, Who lives there? What do they eat to get energy? Moreover, how do they interact with each other? 
 
-My interest in bioinformatics and genomics took me to my first postdoc at [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette).  There I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border, which was destroying forests. 
+My interest in bioinformatics and genomics took me to my first postdoc at the [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette).  Where I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border.
 
 I did my Ph.D. at the [Ecology Institute at the UNAM](http://www.ecologia.unam.mx/web/) in México City. During this time, I studied the landscape genomics of a rare lineage of Vibrionaceae isolated from Cuatro Cienegas, looking for the genes that could explain this ultra-oligotrophic adaptation environment.
 
