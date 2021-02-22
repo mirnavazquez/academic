@@ -40,12 +40,12 @@ superuser: true
 title: Mirna Vázquez Rosas Landa
 ---
 
-Microbes are the most diverse organisms on earth; however, we know little about them; the mechanisms that generate all this diversity,  how they live, and how they interact with the environment are some of the questions that remain open.
+Microbes are the most diverse organisms on earth; however, we know little about them; the mechanisms that generate all this diversity,  how do they live?, and how do they interact with the environment?, are some of the questions that remain open.
 
 As a postdoctoral fellow at the [Baker Lab](https://sites.utexas.edu/baker-lab/),  I study the uncultured microbes that live in the hydrothermal vents and other habitats like oil spills.  The main questions that I am trying to answer are, Who lives there? What do they eat to get energy? Moreover, how do they interact with each other? 
 
-My interest in bioinformatics and genomics took me to my first postdoc at INECOL.  Here I studied a phytopathogenic fungus at the Mexican-US border, which was destroying forests. I design a method to identify this pathogen; taking advantage of the pan-genome paradigm, I identify some unique genome features that allow us to accomplish the task. 
+My interest in bioinformatics and genomics took me to my first postdoc at [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette).  There I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border, which was destroying forests. 
 
-I did my Ph.D. at the Ecology Institute at the UNAM in México City. During this time, I studied the landscape genomics of a rare lineage of Vibrionaceae isolated from Cuatro Cienegas, looking for the genes that could explain this ultra-oligotrophic adaptation environment.
+I did my Ph.D. at the [Ecology Institute at the UNAM](http://www.ecologia.unam.mx/web/) in México City. During this time, I studied the landscape genomics of a rare lineage of Vibrionaceae isolated from Cuatro Cienegas, looking for the genes that could explain this ultra-oligotrophic adaptation environment.
 
-I enjoy teaching and sharing knowledge, and I love the R community. I start using R when I became part of the CDSB and Rladies community and then a co-organizer of RLadies Xalapa, a safe place for minorities to learn how to code.
+I enjoy teaching and sharing knowledge, and I love the R community. I start using R when I became part of the [CDSB](https://comunidadbioinfo.github.io) and [Rladies community](https://rladies.org) and then a co-organizer of [RLadies Xalapa](https://www.meetup.com/rladies-xalapa/), a safe place for minorities to learn how to code.
