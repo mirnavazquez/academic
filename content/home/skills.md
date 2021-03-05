@@ -34,10 +34,6 @@ feature:
 - icon: spa
   icon_pack: fas
   name: Yoga
-- icon: rocket
-  icon_pack: fas
-  name: Creative
-
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
