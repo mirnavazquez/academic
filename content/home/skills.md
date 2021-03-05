@@ -21,10 +21,10 @@ feature:
   name: R
 - icon: terminal
   icon_pack: fas
-  name: Bioinformatics
+  name: omics
 - icon: dna
   icon_pack: fas
-  name: Molecular biology
+  name: Microbial ecology
 - icon: hiking
   icon_pack: fas
   name: Hiking
