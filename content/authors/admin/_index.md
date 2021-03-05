@@ -43,8 +43,6 @@ superuser: true
 title: Mirna Vázquez Rosas Landa
 ---
 
-Microbes are the most diverse organisms on earth; however, we know little about them; the mechanisms that generate all this diversity,  how do they live?, and how do they interact with the environment?, are some of the questions that remain open.
-
 As a postdoctoral fellow at the [Baker Lab](https://sites.utexas.edu/baker-lab/),  I study the uncultured microbes that live in the hydrothermal vents and other habitats like oil spills.  The main questions that I am trying to answer are, Who lives there? What do they eat to get energy? Moreover, how do they interact with each other? 
 
 My interest in bioinformatics and genomics took me to my first postdoc at the [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette).  Where I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border.
