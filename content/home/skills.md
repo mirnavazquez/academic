@@ -21,7 +21,7 @@ feature:
   name: R
 - icon: terminal
   icon_pack: fas
-  name: "omics" sciences
+  name: omics sciences
 - icon: dna
   icon_pack: fas
   name: Microbial ecology
