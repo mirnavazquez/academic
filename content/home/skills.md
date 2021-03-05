@@ -27,7 +27,7 @@ feature:
   name: Microbial ecology
 - icon: chalkboard-teacher
   icon_pack: fas
-  name: teaching
+  name: Teaching
 - icon: hiking
   icon_pack: fas
   name: Hiking
