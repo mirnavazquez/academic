@@ -31,7 +31,7 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/MirnaVRL
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fas
   link: https://scholar.google.es/citations?hl=es&user=5-TSB5AAAAAJ
 - icon: github
   icon_pack: fab
