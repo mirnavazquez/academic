@@ -21,9 +21,6 @@ organizations:
   url: https://sites.utexas.edu/baker-lab/
 role: Postdoctoral fellow
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - display:
     header: true
   icon: twitter
@@ -39,6 +36,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mirnavazquez
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
 superuser: true
 title: Mirna Vázquez Rosas Landa
 ---
