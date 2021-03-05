@@ -25,6 +25,9 @@ feature:
 - icon: dna
   icon_pack: fas
   name: Microbial ecology
+- icon: chalkboard-teacher
+  icon_pack: fas
+  name: teaching
 - icon: hiking
   icon_pack: fas
   name: Hiking
