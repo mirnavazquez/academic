@@ -30,6 +30,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/MirnaVRL
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mirna-Vazquez-Rosas-Landa
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=es&user=5-TSB5AAAAAJ
