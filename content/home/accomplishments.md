@@ -23,31 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2021-01-28"
-  date_start: ""
+- date_end: 
+  date_start: "2021-01-28"
   description: ""
-  organization: ""
+  organization: INECOL
   organization_url: ""
   title: "Design of a diagnostic system based on molecular markers derived from the ascomycetes pan-genome analysis: The case of Fusarium dieback disease"
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246079
-- date_end: "2020-06-22"
-  date_start: ""
+- date_end: 
+  date_start: "2020-06-22"
   description: ""
-  organization: ""
+  organization: UNAM
   organization_url: ""
   title: "Population genomics of Vibrionaceae isolated from an endangered oasis reveals local adaptation after an environmental perturbation"
   url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06829-y
-- date_end: "2020-09-15"
-  date_start: ""
+- date_end: 
+  date_start: "2020-09-15"
   description: ""
-  organization: ""
+  organization: INECOL
   organization_url: ""
   title: "Evidence for Succession and Putative Metabolic Roles of Fungi and Bacteria in the Farming Mutualism of the Ambrosia Beetle Xyleborus affinis"
   url: https://msystems.asm.org/content/5/5/e00541-20.abstract
-- date_end: "2020-10-29"
-  date_start: ""
+- date_end:
+  date_start:  "2020-10-29"
   description: ""
-  organization: ""
+  organization: INECOL
   organization_url: "" 
   title: "A First Glimpse of the Mexican Fruit Fly Anastrepha ludens (Diptera: Tephritidae) Antenna Morphology and Proteome in Response to a Proteinaceous Attractant"
   url: https://www.mdpi.com/1422-0067/21/21/8086
