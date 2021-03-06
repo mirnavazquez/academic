@@ -28,7 +28,7 @@ item:
   description: ""
   organization:
   organization_url: ""
-  title: Design of a diagnostic system based on molecular markers derived from the ascomycetes pan-genome analysis: The case of Fusarium dieback disease
+  title: "Design of a diagnostic system based on molecular markers derived from the ascomycetes pan-genome analysis: The case of Fusarium dieback disease"
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246079
 - date_end: "June 22, 2020"
   date_start: ""
