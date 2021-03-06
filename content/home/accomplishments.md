@@ -23,25 +23,32 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_end: "2019-12-10"
-  date_start: "2019-12-01"
-  description: "We learned different bioinformatic strategies to analyze data from network analysis to machine learning algorithms. As well we solved a real-world problem, which was how does microbial communities are assembled in a community full of antagonistic interactions?"
-  organization: UNAM
+- date_end: "January 28, 2021"
+  date_start: ""
+  description: ""
+  organization: INECOL
   organization_url: ""
-  title: Workshop in Advanced Bioinformatics
-  url: https://lavis.unam.mx/bioinformatics/
-- date_end: "2019-08-01"
-  date_start: "2019-07-01"
-  description: We learned how to use tidy tools when developing R software. During this workshop we develop an R package to easily dbuild a webpage.
-  organization: CDSB-UNAM
+  title: Design of a diagnostic system based on molecular markers derived from the ascomycetes pan-genome analysis: The case of Fusarium dieback disease
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246079
+- date_end: "June 22, 2020"
+  date_start: ""
+  description: ""
+  organization: ""
   organization_url: ""
-  title: How to Build and Create Tidy Tools
-  url: https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XhgHnohMFhE
-- date_end: "2018-08-01"
-  date_start: "2018-07-01"
-  description: We learned how to document the R package for Bioconductor. I participated in the development of an R package that aim to link metabolomic and transcritomic data.
-  organization: CDSB-UNAM
+  title: Population genomics of Vibrionaceae isolated from an endangered oasis reveals local adaptation after an environmental perturbation
+  url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06829-y
+- date_end: "September 15, 2020"
+  date_start: ""
+  description: 
+  organization: 
   organization_url: 
-  title: Latin American R/BioConductor Developers Workshop 2018
-  url: https://comunidadbioinfo.github.io/post/r-bioconductor-developers-workshop-2018/
+  title: Evidence for Succession and Putative Metabolic Roles of Fungi and Bacteria in the Farming Mutualism of the Ambrosia Beetle Xyleborus affinis
+  url: https://msystems.asm.org/content/5/5/e00541-20.abstract
+- date_end: "October 29, 2020"
+  date_start: ""
+  description: 
+  organization: 
+  organization_url: 
+  title: A First Glimpse of the Mexican Fruit Fly Anastrepha ludens (Diptera: Tephritidae) Antenna Morphology and Proteome in Response to a Proteinaceous Attractant
+  url: https://www.mdpi.com/1422-0067/21/21/8086
 ---
