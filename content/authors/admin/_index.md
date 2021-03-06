@@ -28,7 +28,7 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/MirnaVRL
 - icon: instagram
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.instagram.com/mirnis_89/
 - icon: researchgate
   icon_pack: ai
