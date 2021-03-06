@@ -27,6 +27,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/MirnaVRL
+- icon: instagram
+  icon_pack: ai
+  link: https://www.instagram.com/mirnis_89/
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Mirna-Vazquez-Rosas-Landa
