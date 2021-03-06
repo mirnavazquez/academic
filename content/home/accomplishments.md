@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'In person atended workshops'
+title: 'Recent publications'
 subtitle:
 
 # Date format
@@ -26,7 +26,7 @@ item:
 - date_end: "January 28, 2021"
   date_start: ""
   description: ""
-  organization: INECOL
+  organization:
   organization_url: ""
   title: Design of a diagnostic system based on molecular markers derived from the ascomycetes pan-genome analysis: The case of Fusarium dieback disease
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246079
