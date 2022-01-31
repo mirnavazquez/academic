@@ -46,7 +46,7 @@ superuser: true
 title: Mirna Vázquez Rosas Landa
 ---
 
-As a postdoctoral fellow at the [Baker Lab](https://sites.utexas.edu/baker-lab/),  I study the uncultured microbes that live in the hydrothermal vents and other habitats like oil spills.  The main questions that I am trying to answer are, who lives there? what do they eat to get energy? and, how they interact with each other? 
+As a postdoctoral fellow at the [Baker Lab](https://sites.utexas.edu/baker-lab/),  I am studying the ocean’s microbial communities, interested mainly in their metabolisms and phylogenetic diversity.
 
 My interest in bioinformatics and genomics took me to my first postdoc at the [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette).  Where I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border.
 
