@@ -92,11 +92,11 @@ email = "mirnavrl@austin.utexas.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "750 Channel View Drive", city = "Port Aransas", region = "TX", postcode = "78373", country = "United States", country_code = "US"}
+address = {street = "2506 Speedway", city = "Austin", region = "TX", postcode = "78712", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "27.836691567183728", longitude = "-97.05245684616092"}
+coordinates = {latitude = "30.28918740750726", longitude = "-97.73693467111002"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
