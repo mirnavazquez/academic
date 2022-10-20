@@ -18,10 +18,10 @@
   url = "#accomplishments"
   weight = 30
 
-[[main]]
-  name = "Slides"
-  url = "media/Gut_microbiota.html"
-  weight = 60
+#[[main]]
+ # name = "Slides"
+  #url = "media/Gut_microbiota.html"
+  #weight = 60
 
 [[main]]
   name = "Contact"
