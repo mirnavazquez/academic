@@ -3,10 +3,10 @@ bio: My research interests include ecology and evolution of different organisms 
 education:
   courses:
   - course: PhD Microbial ecology and evolution
-    institution: The National Autonomous University of Mexico
+    institution: National Autonomous University of Mexico
     year: 2017
   - course: BSc in Biology
-    institution: The National Autonomous University of Mexico
+    institution: National Autonomous University of Mexico
     year: 2011
 email: "mvazquez@cmarl.unam.mx"
 highlight_name: false
@@ -17,7 +17,7 @@ interests:
 - Hiking
 - Yoga
 organizations:
-- name: The National Autonomous University of Mexico, UNAM
+- name: National Autonomous University of Mexico, UNAM
   url: https://sites.utexas.edu/baker-lab/
 role: Associate Professor
 social:
