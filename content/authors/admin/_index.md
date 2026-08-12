@@ -1,5 +1,5 @@
 ---
-bio: My research interests include ecology and evolution of different organisms mostly microbes.
+bio: I study the ecological and evolutionary principles that govern how microbial communities assemble, reorganize, and maintain function across environmental change.
 education:
   courses:
   - course: PhD Microbial ecology and evolution
@@ -11,25 +11,20 @@ education:
 email: "mvazquez@cmarl.unam.mx"
 highlight_name: false
 interests:
-- Microbial ecology and evolution
-- Bioinformatics
-- Rladies
-- Hiking
-- Yoga
+- Microbial ecology
+- Metagenomics and microbial genomics
+- Microbial community assembly
+- Ecosystem restoration
+- Viral ecology
+- Bioinformatics and reproducible science
 organizations:
 - name: National Autonomous University of Mexico, UNAM
-  url: https://sites.utexas.edu/baker-lab/
-role: Associate Professor
+  url: https://www.icmyl.unam.mx/
+role: Principal Investigator
 social:
-- display:
-    header: true
-  icon: twitter
+- icon: linkedin
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/MirnaVRL
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/mirnis_89/
+  link: https://www.linkedin.com/in/mirna-v%C3%A1zquez-rosas-landa-ph-d-7159ab140
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Mirna-Vazquez-Rosas-Landa
@@ -43,18 +38,14 @@ social:
   icon_pack: fas
   link: /#contact
 superuser: true
-title: Mirna Vázquez Rosas Landa
+title: Mirna Vázquez-Rosas-Landa
 ---
-I am a new faculty at the Marine Science and Limnology Institute at UNAM and will start doing microbial ecology and evolution. 
+I am a microbial ecologist and computational biologist studying the ecological and evolutionary principles that govern how microbial communities assemble, reorganize, and maintain function across environmental change.
 
-I am interested in the ocean microbiome, which is mostly unknown. I will explore questions regarding biogeography, evolution, ecology, and physiology, such as: what are the drivers of microbial species distribution in the ocean? Which are the genomic bases of adaptation that lead to speciation? What is their role in the earth's biogeochemistry? How do they interact with other organisms within the ecosystem?
+At the Institute of Marine Sciences and Limnology at UNAM, I lead a research program that combines genome-resolved metagenomics, comparative genomics, microbial and viral ecology, computational tool development, and experimental approaches. Mangroves and coastal sediments are core systems in my work because they provide powerful natural experiments for understanding disturbance, restoration, community assembly, and biogeochemical function.
 
-I will use computational and experimental approaches, like metagenomics, transcriptomics, and stable isotope probing experiments, to answer those questions.
+My long-term goal is to develop a predictive microbiology of ecosystem recovery: to understand when ecological function returns through the same organisms, when it emerges through different communities, and which principles can eventually help us predict and guide microbiome trajectories.
 
-As a postdoctoral fellow at the University of Texas at Austin as part of the [Baker Lab](https://sites.utexas.edu/baker-lab/), I studied the ocean's microbial communities to uncover new bacteria metabolisms involved in hydrocarbon degradation.
+My research path has moved across biological scales. During my PhD at UNAM, I studied genomic adaptation in Vibrionaceae from Cuatro Ciénegas. At INECOL, I worked with comparative genomics and pangenomes, and as a postdoctoral researcher in the [Baker Lab](https://sites.utexas.edu/baker-lab/) at the University of Texas at Austin, I used genome-resolved metagenomics to study previously unknown microbial lineages and hydrocarbon metabolism in marine sediments.
 
-My interest in bioinformatics and genomics took me to my first postdoc at the [Genomics and transcriptomics lab at the INECOL](https://www.inecol.mx/personal/index.php/moleculares/139-enrique-ibarra-laclette) in Xalapa, Ver, where I used the pan-genome paradigm to design a method to identify a phytopathogenic fungus that was killing trees at the Mexican-US border.
-
-I did my Ph.D. at the [Ecology Institute at the UNAM](http://www.ecologia.unam.mx/web/) in Mexico City. During this time, I studied the landscape genomics of a rare lineage of Vibrionaceae isolated from [Cuatro Cienegas](https://www.sciencemag.org/news/2020/07/watch-threatened-pools-mexican-desert-hold-clues-early-life), looking for the genes that could explain the adaptation to this ultra-oligotrophic environment.
-
-I enjoy teaching and sharing knowledge, and I love the R community. I start using R when I became part of the [CDSB](https://comunidadbioinfo.github.io) and [Rladies community](https://rladies.org) and then a co-organizer of [RLadies Xalapa](https://www.meetup.com/rladies-xalapa/), a safe place for minorities to learn how to code.
+I also develop and promote open, reproducible approaches to microbial genomics and bioinformatics. I mentor students and researchers, build computational resources, and teach metagenomics and data analysis through academic and open-science communities. I am particularly interested in building scientific environments where new questions, tools, datasets, and people can take root.
