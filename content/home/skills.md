@@ -9,43 +9,26 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Expertise
 subtitle:
 
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- icon: dna
+  icon_pack: fas
+  name: Microbial Ecology
+- icon: terminal
+  icon_pack: fas
+  name: Metagenomics
+- icon: laptop-code
+  icon_pack: fas
+  name: Bioinformatics
 - icon: r-project
   icon_pack: fab
   name: R
-- icon: terminal
+- icon: project-diagram
   icon_pack: fas
-  name: -omics
-- icon: dna
+  name: Comparative Genomics
+- icon: water
   icon_pack: fas
-  name: Microbial ecology
-- icon: chalkboard-teacher
-  icon_pack: fas
-  name: Teaching
-- icon: hiking
-  icon_pack: fas
-  name: Hiking
-- icon: spa
-  icon_pack: fas
-  name: Yoga
-
-# Uncomment to use emoji icons.
-#- icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
+  name: Coastal Microbiomes
 ---

@@ -10,21 +10,16 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: "For research collaborations, scientific inquiries, and academic opportunities."
 
 content:
-  # Automatically link email and phone or display as text?
+  # Contact details are pulled from the author profile.
   autolink: true
-  
-  # Email form provider
+
+  # Disable the old test contact form.
   form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
+    provider: ""
+
 design:
   columns: '2'
 ---
